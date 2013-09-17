@@ -1,10 +1,10 @@
 # Card sort report
 
-The purpose of this card sort was to determine common navigation patterns and categories from the content of your large data-oriented website.
+The purpose of this card sort was to determine common navigation patterns and categories from the content of my large data-oriented website.
 
 ## Specifics
 
-The card sort was conducted by {Tirzah Wood} on {september 10th} between the times of 3pm and 6pm with the following participants:
+The card sort was conducted by Tirzah Wood on september 10th between the times of 3pm and 6pm with the following participants:
 
 - Grace Walker
 - Kathryn Hallet
