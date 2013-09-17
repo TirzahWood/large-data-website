@@ -63,6 +63,7 @@ Ruby is an animal lover and a people pleaser; and thinks that she has just met t
 
 - Feeling exscluded
 - park that don't allow dogs+
+
 ### What would help?
 
 - A website that would easely help with learning new things
