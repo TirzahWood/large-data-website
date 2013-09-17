@@ -11,7 +11,7 @@
 
 - Website branding, logo
 - Primary navigation
-- Volcanoes that are currently erupting
+
 
 ## 3. Low
 
