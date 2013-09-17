@@ -2,8 +2,8 @@
 
 ## 1. High
 
+- Descriptions of what are supernatural beings
 - Link to list of supernatural beings
-- Descriptions od supernatural beings
 - link to related articles
 - Search
 

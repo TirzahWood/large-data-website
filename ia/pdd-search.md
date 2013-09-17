@@ -2,7 +2,7 @@
 
 ## 1. High
 
-- Link to the page of what you are searching
+- The page of what you are searching
 - An image of what you are searching
 - If there is nothing that comes up show similar links
 
