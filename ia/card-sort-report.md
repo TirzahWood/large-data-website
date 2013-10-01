@@ -7,7 +7,7 @@ The purpose of this card sort was to determine common navigation patterns and ca
 The card sort was conducted by Tirzah Wood on september 10th between the times of 3pm and 6pm with the following participants:
 
 - Grace Walker
-- Kathryn Hallet
+- Kathryn Hallett
 
 
 ### Cards
@@ -17,7 +17,7 @@ The card sort was conducted by Tirzah Wood on september 10th between the times o
 1. What are supernatural beings?
 2. Real or fake?
 3. Supernatural creatures in the media
-4. pheonix
+4. Phoenix
 5. dragons
 6. Jinn
 7. Werewolf
@@ -39,20 +39,20 @@ The card sort was conducted by Tirzah Wood on september 10th between the times o
 
 ![Card sort 2 results](card-sort-2.jpg)
 
-*Card sort 2 by Kathryn Hallet*
+*Card sort 2 by Kathryn Hallett*
 
 ## Observations
 
-- Comments that were made by particapents were all asking what some of things were that were written on the cards
+- Comments that were made by participants were all asking what some of things were that were written on the cards
 
 - There were no questions that stood out.
 
-- Kathryn had some issue with sorting the name of the creature she wondered if she should the creatures under catagories or just put them all under the same catagory.
+- Kathryn had some issue with sorting the name of the creature she wondered if she should the creatures under categories or just put them all under the same category.
 
 - The grouping from both participant was almost the same.
 
-- I was not exspecting the cards Angels, Demons, and were wols to be put under what are supernatural beings.
+- I was not expecting the cards Angels, Demons, and were wolfs to be put under what are supernatural beings.
 
-- The results were similar to my exspectations.
+- The results were similar to my expectations.
 
 - While watching the card sort I felt interested as to what the results would be.
