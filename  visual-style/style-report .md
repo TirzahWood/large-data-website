@@ -32,4 +32,6 @@ Overall style tile 1 has more of the supernatural beings feel to it and will pro
 
 Overall style tile 1 has an "underwater" feel that is suitable to the subject matter. Element Collage 2 will probably be appealing to children because of its fun graphics and bright colours. And lastly, type Guide 3 has a simple easy to understand look that will help people who just want the bare minimum information and nothing else. 
 
+I will go with style one because it makes the most sense with the content.
+
 
