@@ -4,7 +4,7 @@
 
 - Link to a list of beings
 - Images if the beings
-- Link to other sources of that cartian catogory
+- Link to other sources of that certain category
 - Search
 
 

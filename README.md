@@ -1,6 +1,6 @@
 # Supernatural/Mythical creatures
 
-There are many diffrent supernatural being talked about through the ages. all formed from stories, life exsperiamces and even religion.
+There are many different supernatural being talked about through the ages. all formed from stories, life experiences and even religion.
 
 ## Purpose
 
@@ -18,9 +18,9 @@ Tirzah Wood
 
 ## Target audience
 
-This website would be targeted towards anyone that is interested in learning about the supernatural/mythical creatutes. 
+This website would be targeted towards anyone that is interested in learning about the supernatural/mythical creatures. 
 
-The age range would range from pretty much any age range wether it be young aduts or old.
+The age range would range from pretty much any age range wether it be young adults or old.
 
 [Personas](personas.md)
 

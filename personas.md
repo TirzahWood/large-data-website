@@ -4,17 +4,17 @@
 
 40, Male, CEO
 
-Dean is an adult that has a new intrests in the supernatural/mythical world and being that inhabit it. he is healthy and fit and a sucess man and is just looking for a new intrest to fill his time other then golf and work.
+Dean is an adult that has a new interests in the supernatural/mythical world and being that inhabit it. he is healthy and fit and a success man and is just looking for a new interest to fill his time other then golf and work.
 
 **Personal goals**
 
 - Stay healthy and fit 
-- Wants to learn more and exsplore more of the fictional side of the world
-- continue to be sucessful
+- Wants to learn more and explore more of the fictional side of the world
+- continue to be successful
 
 **Technology skills**
 
-- can sucessfuly manage technology and use the internet
+- can successfully manage technology and use the internet
 - Has a smart phone, tablet, smart TV, laptop
 
 **Likes**
@@ -51,7 +51,7 @@ Ruby is an animal lover and a people pleaser; and thinks that she has just met t
 
 **Technology skills**
 
-- knows how to use the itnternet and basic web searaching
+- knows how to use the internet and basic web searching
 - Has a smart phone.
 
 **Likes**
@@ -61,12 +61,12 @@ Ruby is an animal lover and a people pleaser; and thinks that she has just met t
 
 **Dislikes**
 
-- Feeling exscluded
+- Feeling excluded
 - park that don't allow dogs+
 
 ### What would help?
 
-- A website that would easely help with learning new things
+- A website that would easily help with learning new things
 - Be able to use her smart phone to read the info when out on walks 
 
 
