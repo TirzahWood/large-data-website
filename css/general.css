@@ -38,7 +38,8 @@ nav{
 
 p{
 	font-size: 0.8em;
-	color:#582B12
+	color:#582B12;
+	padding-bottom: 15px;
 }
 
 footer{
@@ -48,14 +49,17 @@ footer{
 }
 
 .bucket-1 {
+	padding-bottom: 15px;
 	width:100%;
 }
 
 .bucket-2{
+	padding-bottom: 15px;
 	width:100%;
 }
 
 .bucket-3{
+	padding-bottom: 15px;
 	width:100%;
 }
 
