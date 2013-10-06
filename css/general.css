@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-a:link {
+a:link { 
 	color:#000000; 
 	text-decoration:none; } 
 a:visited {
@@ -12,27 +12,42 @@ a:active {
 
 html {
 	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-}
-
-nav{
-	font-size: 1.2em;
 	
-}
-
-.h-image{
-	width: 100%;
+	background-image: url(../images/sprinkles.png);
+	background-repeat:repeat;
 }
 
 .logo{
-	
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+nav a:hover {
+	color:#BFA26E;
+}
+.current a {
+	color:#582B12;
+}
+nav{
+	font-size: 1.2em;
+	text-align:center;
+	background-color: #fff;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+p{
+	font-size: 0.8em;
+	color:#582B12
 }
 
 footer{
 	
-	font-size: 6px;
+	font-size: 10px;
+	padding-top: 15px;
 }
 
-.bucket-1{
+.bucket-1 {
 	width:100%;
 }
 
@@ -45,5 +60,6 @@ footer{
 }
 
 h2{
-	font-size: 1em;
+	font-size: 0.9em;
+	color:#582B12;
 }
