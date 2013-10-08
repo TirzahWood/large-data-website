@@ -23,6 +23,7 @@
 
 .unit-spacer-2 {
   padding: 0.8em;
+  margin:0;
 }
 @media only screen and (max-width: 38em) {
   .unit-s-hidden {

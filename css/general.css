@@ -45,7 +45,7 @@ body {
 
 header {
 	display: block;
-	background-color: #FFF;
+	background-color: rgba(255, 255, 255, 0.45);
 	margin: 0;
 	padding: 0;
 	text-align: center;
@@ -58,11 +58,12 @@ nav {
 	padding: 0;
 	font-size: 1.2em;
 	text-align: center;
-	background-color: #fff;
+	
 	
 }
 
 nav a {
+	margin: 0;
 	display: inline-block;
 	text-align:center;
 	padding-top: .8em;
@@ -107,13 +108,56 @@ p {
 }
 
 h2{
-	font-size: 0.9em;
+	font-size: 1.3em;
 	color:#582B12;
+	margin:0;
 }
 
 footer {
-	font-size: 10px;
-	padding-top: 15px;
+	font-size: 13px;
+	
+	border-top:solid 1px #582B12;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 2em;
+}
+
+.button-1 {
+
+	background-color:#BFA26E;
+	
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+	text-indent:0;
+	display:inline-block;
+	
+	color:#BFA26E;
+	
+	font-size:15px;
+	font-style:normal;
+	padding: .45em;
+	margin-top: .5em;
+	text-decoration:none;
+	text-align:center;
+
+}.button-1:hover {
+	background-color:#582B12;
+	color:#BFA26E;
+}.button-1:active {
+	background-color:#ccc;
+	color: #582B12;
+	position:relative;
+	top:1px;
 }
 
 @media only screen and (max-width: 38em) {
@@ -130,5 +174,11 @@ footer {
 	}
 }
 @media only screen and (min-width: 60em) {
+
+	.section-1 {
+		margin-right: 10em;
+		margin-left: 10em;
+	}
+
 
 }
