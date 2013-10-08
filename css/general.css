@@ -66,7 +66,7 @@ nav a {
 	margin: 0;
 	display: inline-block;
 	text-align:center;
-	padding-top: .8em;
+	padding-top: 1.5em;
 	padding-bottom: .8em;
 	min-height: 100%;
 	max-height: 100%;
@@ -160,25 +160,33 @@ footer {
 	top:1px;
 }
 
-@media only screen and (max-width: 38em) {
+@media only screen and (min-width: 25em) {
 	.unit-s-1 {
 		float: none;
 		width: 100%;
 }
-@media only screen and (min-width: 38em) and (max-width: 60em) {
+@media only screen and (min-width: 35em) {
 	.unit-m-1-3 {
 		
 	}
 	p {
-		font-size: 3em;
+		font-size: 1.5em;
+		margin-right: 1.2em;
+		margin-left: 1.5em;
 	}
+	nav {
+		font-size: 1.5em;
+	}
+	
 }
 @media only screen and (min-width: 60em) {
 
 	.section-1 {
-		margin-right: 10em;
-		margin-left: 10em;
+		margin-right: 2em;
+		margin-left: 2em;
 	}
+	
+	
 
 
 }
