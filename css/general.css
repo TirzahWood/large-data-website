@@ -170,8 +170,8 @@ footer {
 		
 	}
 	p {
-		font-size: 1.5em;
-		margin-right: 1.2em;
+		font-size: 1.2em;
+		margin-right: 1.5em;
 		margin-left: 1.5em;
 	}
 	nav {
@@ -186,6 +186,11 @@ footer {
 		margin-left: 2em;
 	}
 	
+	p {
+		font-size: 1.5em;
+		margin-right: 9em;
+		margin-left: 1.5em;
+	}
 	
 
 
