@@ -100,11 +100,15 @@ p {
 	color:#582B12;
 	padding-bottom: 15px;
 }
+h1 {
+	color:#8A181A;
+}
 
 
 .bucket-1 {
 	display:inline-block;
 	width:100%;
+	padding-top: 0.3em;
 }
 
 h2{
@@ -164,7 +168,22 @@ footer {
 	.unit-s-1 {
 		float: none;
 		width: 100%;
+	}
+	
+	nav a {
+	margin: 0;
+	display: inline-block;
+	text-align:center;
+	}
+	
+	
+
+	h1 {
+		font-size: 1.3em;
+	}
+	
 }
+
 @media only screen and (min-width: 35em) {
 	.unit-m-1-3 {
 		
@@ -177,7 +196,10 @@ footer {
 	nav {
 		font-size: 1.5em;
 	}
-	
+	h1 {
+		margin-left: 1.2em;
+		font-size:1.9em;
+	}
 }
 @media only screen and (min-width: 60em) {
 
@@ -192,6 +214,15 @@ footer {
 		margin-left: 1.5em;
 	}
 	
+}
 
-
+@media only screen and (min-width: 80em) {
+	
+	p {
+		font-size: 2em;
+	}
+	
+	nav {
+		font-size: 1.9em;
+}
 }
