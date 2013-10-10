@@ -30,14 +30,6 @@ body {
 	padding: 0;
 }
 
-.unit {
-	float: left;
-}
-
-.grid {
-	overflow: hidden;
-}
-
 .logo{
 	width: 100%;
 	display:inline-block;
@@ -165,11 +157,7 @@ footer {
 }
 
 @media only screen and (min-width: 25em) {
-	.unit-s-1 {
-		float: none;
-		width: 100%;
-	}
-	
+
 	nav a {
 	margin: 0;
 	display: inline-block;
@@ -185,9 +173,7 @@ footer {
 }
 
 @media only screen and (min-width: 35em) {
-	.unit-m-1-3 {
-		
-	}
+
 	p {
 		font-size: 1.2em;
 		margin-right: 1.5em;
