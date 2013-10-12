@@ -1,0 +1,3 @@
+markdown: red carpet
+base: /large-data-website
+exclude: ['ai', 'visual-style', 'README.md']
