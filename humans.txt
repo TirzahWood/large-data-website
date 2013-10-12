@@ -1,0 +1,33 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Tirzah Wood <tirzah.noel.w@hotmail.ca>
+Site: http://tirzahdesigns.ca
+GitHub: https://github.com/TirzahWood
+Twitter: @Tirzahdesigns
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Profesor: Thomas J Bradley
+Friend: Lisa Villeneuve
+
+---
+
+# TECHNOLOGY
+
+Mac Book Pro
+
+## Software
+
+- Dreamweaver
+- Git + GitHub
+- jekyll
+- Markdown
+
+## Hosting
+
+- Github: http://github.com/

@@ -1,0 +1,9 @@
+#http;//robotstxt.org
+
+#Show search engines where yo find your sitemap
+Sitemap: http://supernaturalbeings/sitemap.xml
+
+User-Agent *
+
+#Block images from showing in search results
+#Disallow: /img
