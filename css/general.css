@@ -111,19 +111,29 @@ h2{
 	margin:0;
 }
 
-
-aside {
-	float:left;
-	background-color: #DBB579;
-	margin: 1em;
+.flex-img {
 	display: inline-block;
-	padding: 1em;
+	width: 100%;
+	padding-bottom: 1em;
 }
 
-aside a {
-	padding: 1em;
-	display: bock;
+.article {
+	padding: 0;
+	margin: 0;
 }
+.article-text p {
+	margin: 0;
+	
+	
+	
+}
+
+.sub-menu {
+	text-align: center;
+	background-color: #D6B785;
+	
+}
+
 
 footer {
 	font-size: 13px;
@@ -225,6 +235,6 @@ footer {
 	}
 	
 	nav {
-		font-size: 1.9em;
+		font-size: 1.7em;
 }
 }
