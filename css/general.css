@@ -92,6 +92,7 @@ p {
 	color:#582B12;
 	padding-bottom: 15px;
 }
+
 h1 {
 	color:#8A181A;
 	font-size: 1em;
@@ -108,6 +109,18 @@ h2{
 	font-size: 1.3em;
 	color:#582B12;
 	margin:0;
+}
+
+aside {
+	float:left;
+	background-color: #DBB579;
+	margin: 1em;
+	display: inline-block;
+}
+
+aside a {
+	padding: 1em;
+	display: bock;
 }
 
 footer {
@@ -196,7 +209,7 @@ footer {
 	}
 	
 	p {
-		font-size: 1.5em;
+		font-size: 1.2em;
 		margin-right: 9em;
 		margin-left: 1.5em;
 	}
@@ -206,7 +219,7 @@ footer {
 @media only screen and (min-width: 80em) {
 	
 	p {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 	
 	nav {
