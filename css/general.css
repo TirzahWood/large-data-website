@@ -111,11 +111,13 @@ h2{
 	margin:0;
 }
 
+
 aside {
 	float:left;
 	background-color: #DBB579;
 	margin: 1em;
 	display: inline-block;
+	padding: 1em;
 }
 
 aside a {
@@ -189,7 +191,7 @@ footer {
 @media only screen and (min-width: 35em) {
 
 	p {
-		font-size: 1.2em;
+		font-size: 1.1em;
 		margin-right: 1.5em;
 		margin-left: 1.5em;
 	}
@@ -209,7 +211,7 @@ footer {
 	}
 	
 	p {
-		font-size: 1.2em;
+		font-size: 1.1em;
 		margin-right: 9em;
 		margin-left: 1.5em;
 	}
