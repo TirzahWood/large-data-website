@@ -93,6 +93,11 @@ p {
 	padding-bottom: 15px;
 }
 
+.caption p {
+	margin: 0;
+	padding: 0;
+}
+
 h1 {
 	color:#8A181A;
 	font-size: 1em;
@@ -102,13 +107,13 @@ h1 {
 .bucket-1 {
 	display:inline-block;
 	width:100%;
-	padding-top: 0.3em;
-}
+	}
 
 h2{
 	font-size: 1.3em;
 	color:#582B12;
 	margin:0;
+	padding-bottom: 0.5em;
 }
 
 .flex-img {
@@ -266,5 +271,10 @@ footer {
 	
 	nav {
 		font-size: 1.7em;
-}
+	}
+
+	.bucket-1 {
+		padding-top: 0;
+	}
+		
 }
