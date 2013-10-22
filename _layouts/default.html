@@ -39,9 +39,9 @@
 		</nav>
 		<nav class="unit unit-s-1 unit-m-2-3 unit-l-3-4">
 			<div class="grid">
-				<div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3"><a href="index.html">Home</a></div>
-				<div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3"><a href="beings.html">Beings</a></div>
-				<div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3"><a href="article.html">Articles</a></div>
+				<div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3"><a href="{{site.baseurl}}/index.html" class="{% if page.url contains 'index' %}selected{% endif %}">Home</a></div>
+				<div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3"><a href="{{site.baseurl}}/beings.html" class="{% if page.url contains 'beings' %}selected{% endif %}">Beings</a></div>
+				<div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3"><a href="{{site.baseurl}}/article.html" class="{% if page.url contains 'article' %}selected{% endif %}">Articles</a></div>
 			</div>
 		</nav>
 	</header>

@@ -81,6 +81,10 @@ nav a:active {
 	color:#582B12;
 }
 
+nav a.selected {
+	color:#C91316;
+}
+
 nav h1 {
 	display:inline-block;
 	margin: 0;
