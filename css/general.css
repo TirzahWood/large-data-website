@@ -97,9 +97,8 @@ p {
 	padding-bottom: 15px;
 }
 
-.caption p {
-	margin: 0;
-	padding: 0;
+caption {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 
 h1 {
