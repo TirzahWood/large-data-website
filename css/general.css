@@ -147,6 +147,8 @@ p {
 
 .caption {
 	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 0.3 em;
+	color: #000000;
 }
 
 h1 {
