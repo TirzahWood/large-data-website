@@ -168,6 +168,13 @@ h1 {
 	margin:0;
 	padding-bottom: 0.5em;
 }
+h2{
+	font-size: 1.3em;
+	color:#582B12;
+	margin:0;
+	padding-bottom: 0.5em;
+}
+
 
 .flex-img {
 	display: inline-block;
