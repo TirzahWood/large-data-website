@@ -83,6 +83,24 @@ body {
 	display:inline-block;
 }
 
+.image {
+	position: relative;
+}
+
+h3 {
+	position: absolute;
+	top: 200px;
+	left: 0;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 0em;
+	margin-left: 4em;
+	padding-bottom: 20em;
+	width: 70%;
+	height: 50px;
+	color:#bfa26e;
+	font-size: 0.8em;
+}
 header {
 	display: block;
 	background-color: rgba(255, 255, 255, 0.45);
@@ -307,6 +325,19 @@ footer {
 		margin-left: 1.2em;
 		font-size:1.9em;
 	}
+	h3 {
+		position: absolute;
+		top: 200px;
+		left: 0;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 8em;
+		margin-left: 5em;
+		width: 70%;
+		height: 50px;
+		color:#bfa26e;
+		font-size: 1.5em;
+	}
 }
 @media only screen and (min-width: 60em) {
 
@@ -319,6 +350,19 @@ footer {
 		font-size: 1.1em;
 		margin-right: 9em;
 		margin-left: 1.5em;
+	}
+	h3 {
+		position: absolute;
+		top: 200px;
+		left: 0;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 11em;
+		margin-left: 8em;
+		width: 70%;
+		height: 50px;
+		color:#bfa26e;
+		font-size: 2em;
 	}
 	
 }
@@ -336,5 +380,18 @@ footer {
 	.bucket-1 {
 		padding-top: 0;
 	}
-		
+	
+	h3 {
+		position: absolute;
+		top: 200px;
+		left: 0;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 13em;
+		margin-left: 8em;
+		width: 70%;
+		height: 50px;
+		color:#bfa26e;
+		font-size: 2em;
+	}
 }
