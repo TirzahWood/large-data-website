@@ -95,19 +95,10 @@ body {
 }
 
 h3 {
-	position: absolute;
-	top: 200px;
-	left: 0;
-	width: 100%;
-	margin: 0 auto;
-	margin-top: 0em;
-	margin-left: 4em;
-	padding-bottom: 20em;
-	width: 70%;
-	height: 50px;
-	color:#bfa26e;
+	
+	color:#9B2C2E;
 	font-size: 0.8em;
-}
+} 
 header {
 	display: block;
 	background-color: rgba(255, 255, 255, 0.45);
@@ -344,7 +335,7 @@ footer {
 		height: 50px;
 		color:#bfa26e;
 		font-size: 1.5em;
-	}
+	} 
 }
 @media only screen and (min-width: 60em) {
 
